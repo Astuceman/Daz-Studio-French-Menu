@@ -3,7 +3,7 @@ Votre logiciel préféré en français
 
 # Comment contribuer ?
 Il faut comprendre comment fonctionne chaque fichier.
-Faites de tests.
+Faites des tests.
 Inspirez vous du travail de <a href="https://github.com/hujiaogen/daz3d-chinese-menu-">hujiaogen</a>
 
 1. Rendez vous le fichier de votre choix (XXX.dsx), puis cliquez sur l'icone stylo en haut à droite du fichier
